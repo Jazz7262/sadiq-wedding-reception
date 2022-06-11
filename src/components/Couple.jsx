@@ -45,9 +45,9 @@ function Couple() {
                         <p>
                             D/O Janab Abdul Kaleem Sahab,
                             <br />
-                            A.K. Electrical, Siruguppa,
+                            A.K. Electrical,
                             <br />
-                            Bellary Dist.
+                            Raichur.
                         </p>
                     </div>
                 </div>
