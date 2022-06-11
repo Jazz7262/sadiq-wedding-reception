@@ -4,7 +4,7 @@ import Clock from "./Clock";
 import "../styles/CountDown.css";
 
 function CountDown() {
-    let date1 = new Date("2022 6 19 1:00 PM");
+    let date1 = new Date("2022 6 21 2:00 PM");
     const [duration, setDuration] = useState({});
 
     function getDuration() {
