@@ -12,7 +12,7 @@ function Slide() {
                 <h3>We Are Getting Married</h3>
                 <h1>Save Our Date</h1>
                 <p>
-                    19<sup>th</sup> June, 2022
+                    21<sup>st</sup> June, 2022
                 </p>
             </div>
         </section>
